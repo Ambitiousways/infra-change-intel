@@ -1,7 +1,3 @@
-Perfect. Below is a **fully optimized, recruiter-ready README** you can paste directly into your GitHub repo.
-It’s written to speak to **software engineers, security teams, and hiring managers**—clear, confident, and professional.
-
----
 
 # Infrastructure Change Intelligence Platform
 
@@ -176,6 +172,7 @@ It reflects how infrastructure and security tooling is built and maintained in p
 * Integration with ticketing/change systems
 * Historical drift visualization
 * Policy-driven risk rules
+
 
 
 
