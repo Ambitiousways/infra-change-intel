@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+python-dateutil
+rich
+jinja2
+typer
+sqlalchemy
+pytest
+httpx
