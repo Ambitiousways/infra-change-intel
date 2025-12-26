@@ -1,4 +1,4 @@
-\# Infrastructure Change Intelligence Platform
+\Infrastructure Change Intelligence Platform
 
 
 
@@ -6,13 +6,13 @@ A FastAPI-based service that analyzes infrastructure configuration changes (befo
 
 
 
-\## Why this project exists
+\ Why this project exists
 
 Infrastructure changes are a common source of outages and security incidents. This service helps teams quickly understand what changed, why it matters, and what risk was introduced—without requiring manual diffing or long change review meetings.
 
 
 
-\## Key features
+\ Key features
 
 \- Change diff engine for nested configuration objects
 
@@ -70,5 +70,6 @@ python -m uvicorn api.main:app --reload
 This project includes unit and API tests to ensure consistent behavior as features evolve.
 
 ![Tests Passing](./examples/screenshots/tests_passing.png)
+
 
 
